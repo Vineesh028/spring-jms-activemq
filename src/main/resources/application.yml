@@ -1,0 +1,7 @@
+server:
+  port: 8090
+activemq:
+  broker-url: tcp://localhost:61616
+
+destination:
+  topic: topic.t
